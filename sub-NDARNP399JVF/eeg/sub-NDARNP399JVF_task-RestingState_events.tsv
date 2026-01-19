@@ -1,0 +1,6 @@
+onset	duration	sample	value	event_code
+0	n/a	0	break cnt	break cnt
+2.408	n/a	1204	resting_start	90
+290.024	n/a	145012	break cnt	break cnt
+399.206	n/a	199603	break cnt	break cnt
+2399.633	n/a	1199816.5	boundary	boundary

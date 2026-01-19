@@ -1,0 +1,29 @@
+onset	duration	sample	value	event_code
+0	n/a	0	break cnt	break cnt
+1.346	n/a	673	resting_start	90
+73.342	n/a	36671	instructed_toOpenEyes	20
+93.342	n/a	46671	instructed_toCloseEyes	30
+133.34	n/a	66670	instructed_toOpenEyes	20
+153.34	n/a	76670	instructed_toCloseEyes	30
+193.338	n/a	96669	instructed_toOpenEyes	20
+213.338	n/a	106669	instructed_toCloseEyes	30
+253.338	n/a	126669	instructed_toOpenEyes	20
+273.338	n/a	136669	instructed_toCloseEyes	30
+313.336	n/a	156668	instructed_toOpenEyes	20
+333.336	n/a	166668	instructed_toCloseEyes	30
+373.336	n/a	186668	instructed_toOpenEyes	20
+377.864	n/a	188932	break cnt	break cnt
+407.928	n/a	203964	9999	9999
+409.266	n/a	204633	video_start	83
+527.284	n/a	263642	9999	9999
+528.324	n/a	264162	video_start	83
+698.878	n/a	349439	video_stop	103
+699.384	n/a	349692	break cnt	break cnt
+923.452	n/a	461726	9999	9999
+924.464	n/a	462232	video_start	82
+1087.458	n/a	543729	video_stop	102
+1088	n/a	544000	break cnt	break cnt
+1118.958	n/a	559479	9999	9999
+1119.97	n/a	559985	video_start	81
+1237.366	n/a	618683	video_stop	101
+1237.885	n/a	618942.5	boundary	boundary

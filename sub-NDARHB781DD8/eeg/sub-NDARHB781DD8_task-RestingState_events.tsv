@@ -1,0 +1,15 @@
+onset	duration	sample	value	event_code
+0	n/a	0	break cnt	break cnt
+4.41	n/a	2205	resting_start	90
+310.012	n/a	155006	instructed_toOpenEyes	20
+330.012	n/a	165006	instructed_toCloseEyes	30
+370.01	n/a	185005	instructed_toOpenEyes	20
+390.01	n/a	195005	instructed_toCloseEyes	30
+430.01	n/a	215005	instructed_toOpenEyes	20
+450.01	n/a	225005	instructed_toCloseEyes	30
+490.012	n/a	245006	instructed_toOpenEyes	20
+510.012	n/a	255006	instructed_toCloseEyes	30
+550.012	n/a	275006	instructed_toOpenEyes	20
+570.012	n/a	285006	instructed_toCloseEyes	30
+610.012	n/a	305006	instructed_toOpenEyes	20
+614.659	n/a	307329.5	boundary	boundary

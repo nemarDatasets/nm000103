@@ -1,0 +1,6 @@
+onset	duration	sample	value	event_code
+0	n/a	0	9999	9999
+1.528	n/a	764	video_start	82
+164.512	n/a	82256	video_stop	102
+165.026	n/a	82513	break cnt	break cnt
+194.528	n/a	97264	9999	9999
